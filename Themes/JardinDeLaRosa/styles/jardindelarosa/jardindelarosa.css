@@ -1,0 +1,151 @@
+
+.page {
+    font-size: 150%;
+    text-align: center;
+}
+
+.page p {
+    /*padding-left: 10%;*/
+    text-align: left;
+}
+
+.icono-titulo .icono img {
+    margin-right: 20px;
+}
+
+.carrusel {
+  margin-top: 30px;
+}
+
+.carrusel .item{
+  margin: 6px;
+}
+.carrusel .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.carrusel-singleItem {
+    width: 80%; /*Cambia el tamaño de las fotos iniciales */
+    left: 10%;
+}
+
+.carrusel-singleItem .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height:60%;
+}
+
+/************** ICONOS EN CARRUSEL ***********************/
+
+/*.carrusel-singleItem.owl-theme .owl-controls .owl-page span {
+    margin-right: 18px;
+    margin-left: 18px;
+    margin-bottom: 50px;
+}
+
+.carrusel-singleItem.owl-theme .owl-controls .owl-page {
+    background-repeat:no-repeat;
+    background-position-x: 0;
+    background-position-y: bottom;
+    background-size: 75%;
+}
+
+.carrusel-singleItem.owl-theme .owl-controls .owl-page:nth-child(1) {
+    background-image: url("/Media/Default/Iconos/Centro%20de%20Jardiner%C3%ADa.png");
+}
+
+.carrusel-singleItem.owl-theme .owl-controls .owl-page:nth-child(2) {
+    background-image: url("/Media/Default/Iconos/Piscinas.png");
+}
+
+.carrusel-singleItem.owl-theme .owl-controls .owl-page:nth-child(3) {
+    background-image: url("/Media/Default/Iconos/Ecohuerto.png");
+}
+
+.carrusel-singleItem.owl-theme .owl-controls .owl-page:nth-child(4) {
+    background-image: url("/Media/Default/Iconos/Paisajismo.png");
+}
+
+.carrusel-singleItem.owl-theme .owl-controls .owl-page:nth-child(5) {
+    background-image: url("/Media/Default/Iconos/Gesti%C3%B3n%20de%20Zonas%20Verdes.png");
+}*/
+
+/*********************************************************/
+
+.carrusel-tarjeta {
+    font-size: 75%;
+}
+
+.carrusel-tarjeta h2 {
+    font-size: 130%;
+    color: #008cba;
+    text-align: left;
+}
+
+.carrusel-tarjeta p {
+    padding-left: 10%;
+    text-align: left;
+}
+
+.carrusel-tarjeta h2 i {
+    font-size: 130%;
+}
+
+.page footer {
+    text-align: right;
+}
+
+#footer-quad-first {
+    display: block;
+    float: left;
+}
+
+.widget-LogoPie img {
+    width: 60%;
+    height: auto;
+    margin-top: -20px;
+}
+
+.widget-footer-quad-first p a {
+    /*margin-right: 3%;*/
+}
+
+#footer-quad-second {
+    display: block;
+    float: left;
+    /*width: 60%;*/
+}
+
+#footer-quad-third {
+    display: block;
+    float: right;
+}
+
+.widget-WidgetSocial {
+    float: right;
+}
+
+.widget-WidgetCreditos {
+    float: left;
+}
+
+/******************** GIF EN NAVEGACIÓN *******************************
+.navbar-brand {
+    background-image: url("/Media/Default/Iconos/Logo.gif");   
+    background-size: 60px;
+    background-repeat: no-repeat;
+    padding-left: 65px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: black;
+}
+
+.navbar-brand {
+    background-color: white;
+    color: #008cba;
+}
+*************************************************************************/
