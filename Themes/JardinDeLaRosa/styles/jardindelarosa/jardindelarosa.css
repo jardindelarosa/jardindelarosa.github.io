@@ -1,12 +1,30 @@
+/* Ocultar signin
+.last {
+    visibility:collapse;
+}
+*/
 
 .page {
-    font-size: 150%;
+    font-size: 120%;
+    text-align: left;
+}
+
+.page h1 {
     text-align: center;
 }
 
 .page p {
-    /*padding-left: 10%;*/
-    text-align: left;
+    font-size: 90%;
+}
+
+.page li {
+    padding-left: 10%;
+    font-size: 80%;
+    margin-top: 5px;
+}
+
+.page li i {
+    color: #008cba;
 }
 
 .icono-titulo .icono img {
@@ -27,8 +45,8 @@
 }
 
 .carrusel-singleItem {
-    width: 80%; /*Cambia el tamaño de las fotos iniciales */
-    left: 10%;
+    width: 70%; /*Cambia el tamaño de las fotos iniciales */
+    left: 15%;
 }
 
 .carrusel-singleItem .item img{
@@ -76,7 +94,7 @@
 /*********************************************************/
 
 .carrusel-tarjeta {
-    font-size: 75%;
+    font-size: 80%;
 }
 
 .carrusel-tarjeta h2 {
