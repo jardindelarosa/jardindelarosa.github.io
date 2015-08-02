@@ -1,7 +1,8 @@
-/* Ocultar signin */
+/* Ocultar signin
 .last {
     visibility:collapse;
 }
+*/
 
 .page {
     font-size: 120%;
@@ -150,8 +151,9 @@
 }
 
 /******************** GIF EN NAVEGACIÓN *******************************
+*************************************************************************/
 .navbar-brand {
-    background-image: url("/Media/Default/Iconos/Logo.gif");   
+    background-image: url("../../../../Media/Default/Iconos/Logo.gif");   
     background-size: 60px;
     background-repeat: no-repeat;
     padding-left: 65px;
@@ -165,4 +167,3 @@
     background-color: white;
     color: #008cba;
 }
-*************************************************************************/
