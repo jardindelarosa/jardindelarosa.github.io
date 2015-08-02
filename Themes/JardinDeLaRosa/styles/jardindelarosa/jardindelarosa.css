@@ -45,8 +45,8 @@
 }
 
 .carrusel-singleItem {
-    width: 70%; /*Cambia el tamaño de las fotos iniciales */
-    left: 15%;
+    width: 80%; /*Cambia el tamaño de las fotos iniciales */
+    left: 10%;
 }
 
 .carrusel-singleItem .item img{
