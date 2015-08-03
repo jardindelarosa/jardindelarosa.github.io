@@ -1,8 +1,8 @@
-/* Ocultar signin
-.last {
+/* Ocultar signin */
+#layout-navigation .last {
     visibility:collapse;
 }
-*/
+
 
 .page {
     font-size: 120%;
@@ -45,8 +45,8 @@
 }
 
 .carrusel-singleItem {
-    width: 80%; /*Cambia el tamaño de las fotos iniciales */
-    left: 10%;
+    width: 70%; /*Cambia el tamaño de las fotos iniciales */
+    left: 15%;
 }
 
 .carrusel-singleItem .item img{
@@ -54,6 +54,11 @@
     width: 100%;
     height: auto;
     max-height:60%;
+}
+
+.carrusel-singleItem h1 {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 /************** ICONOS EN CARRUSEL ***********************/
@@ -129,6 +134,11 @@
 
 .widget-footer-quad-first p a {
     /*margin-right: 3%;*/
+}
+
+#layout-footer hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 #footer-quad-second {
